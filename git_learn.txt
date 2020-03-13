@@ -1,4 +1,5 @@
- git remote add origin git@github.andao-information/auto_coc_and_learn.git
+git init
+
 在GitHub上创建仓库并与本地仓库关联
 
 

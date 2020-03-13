@@ -1,0 +1,13 @@
+ git remote add origin git@github.andao-information/auto_coc_and_learn.git
+在GitHub上创建仓库并与本地仓库关联
+
+
+git pull git@github.com:andao-information/auto_coc_and_learn.git
+##更新该目录下的到本地
+git add .    （这后面是一个英文的句号）
+add后面加了一个点，是想要提交所有文件，如果想提交指定的文件，可以写文件名，执行完增加命令后，要执行提交命令，如下：
+
+git commit –m “这里写下你自己的记录本次提交内容的信息”
+
+
+git push git@github.com:andao-information/auto_coc_and_learn.git
